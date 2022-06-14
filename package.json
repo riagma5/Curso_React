@@ -1,0 +1,27 @@
+{
+  "name": "curso_react",
+  "version": "1.0.0",
+  "description": "Creación de commerce",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riagma5/Curso_React.git"
+  },
+  "keywords": [
+    "react",
+    "javascrip"
+  ],
+  "author": "Ricardo Aguilera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riagma5/Curso_React/issues"
+  },
+  "homepage": "https://github.com/riagma5/Curso_React#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
